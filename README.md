@@ -2,7 +2,7 @@
 
 
 # CPU
-The Gameboy's CPU is a custom chip -- SHarp LR35902.
+The Gameboy's CPU is a custom chip -- Sharp LR35902.
 The CPU is similar to the more popular Intel 8080 and the Zilog Z80.
 This is useful to know as the 8080 and Z80 were popular chips for devices back in the 70s and 80s.
 
